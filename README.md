@@ -3,7 +3,7 @@
    - HTML
    - CSS
    - Laravel
-   - ![Android Studio](https://img.shields.io/badge/-AndroidStudio-000?&logo=AndroidStudio)
+   - SQL
    - JavaScript
    - C#
    - SQL
