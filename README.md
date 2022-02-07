@@ -3,7 +3,7 @@
    - HTML
    - CSS
    - Laravel
-   - SQL
+   - Kotlin
    - JavaScript
    - C#
    - SQL
