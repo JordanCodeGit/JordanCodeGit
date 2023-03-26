@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel framework, React, etc**
 
-- 📫 You can reach me through [my Gmail](jordanaw0117@gmail.com)
+- 📫 You can reach me by mail, **jordanaw0117@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Tv3cuKmp_z9dNKCXQJcLLWwjOYKilIof/view?usp=share_link)
 
