@@ -9,7 +9,7 @@
 
 - 📫 You can reach me by mail, **jordanaw0117@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1x6CMJXFpAwgcdw_-7Wd7LPuarn_N908m/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1_buBONVGb_ZGrKwAKdapsIpEqCm5Xhje/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
