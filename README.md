@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Jordan</h1>
-<h3 align="center">A Curious but Ambitious Soul</h3>
 
 ### I am a bachelor's degree pursuer in computer science at Institute of Technology Telkom Purwokerto. <br>Primarily interested in web development and AI, I'm open to learning new things in both fields. Know about my experiences [here](https://drive.google.com/drive/folders/1mtn_IBWa_5Qro83NPA2tgXOJBdH0SWOG?usp=drive_link)
 
