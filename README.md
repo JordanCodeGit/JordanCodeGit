@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Jordan</h1>
 
-### I am a bachelor's degree pursuer in Computer Science. <br>Intern at <a href="https://github.com/purnasth" target="_blank">PT. Solusi247</a> as a fullstack web developer for 6 months in 2022. <br>Primarily interested in web development and AI, I'm open to learning new things in both fields. Know about my experiences [here](https://drive.google.com/drive/folders/1mtn_IBWa_5Qro83NPA2tgXOJBdH0SWOG?usp=drive_link)
+### I am a bachelor's degree pursuer in Computer Science. <br>Intern at <a href="https://solusi247.com/">PT. Solusi247</a> as a fullstack web developer for 6 months in 2022. <br>Primarily interested in web development and AI, I'm open to learning new things in both fields. Know about my experiences [here](https://drive.google.com/drive/folders/1mtn_IBWa_5Qro83NPA2tgXOJBdH0SWOG?usp=drive_link)
 
 ## 🌐 Social Platforms:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonggg._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-angkawijaya-776502254/) 
