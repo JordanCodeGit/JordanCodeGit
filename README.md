@@ -2,11 +2,9 @@
 <h3 align="center">A Curious but Ambitious Soul</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordancodegit&label=Profile%20views&color=0e75b6&style=flat" alt="jordancodegit" /> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordancodegit&label=Page%20Visitors&color=0e75b6&style=plastic" alt="jordancodegit" /> </p>
 
-- 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1mtn_IBWa_5Qro83NPA2tgXOJBdH0SWOG?usp=drive_link](https://drive.google.com/drive/folders/1mtn_IBWa_5Qro83NPA2tgXOJBdH0SWOG?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1mtn_IBWa_5Qro83NPA2tgXOJBdH0SWOG?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
