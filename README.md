@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan Angkawijaya</h1>
-<h3 align="center">Fullstack Web Developer 🌐 growing into AI/ML 🤖 — NLP & Computer Vision</h3>
-<p align="center">Final-year Computer Science student · Outstanding Student of Telkom University · <b>Open to Work</b></p>
+<h3 align="center">"I turn research-grade AI into products teams can ship."</h3>
+<p align="center"><b>AI/ML Builder 🤖 — NLP & Computer Vision</b> · Fullstack Web Developer 🌐 · Final-year CS Student</p>
+<p align="center">Outstanding Student of Telkom University · <b>🟢 Open to Work</b></p>
 
 <p align="center">
   <a href="https://jordanaw.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -12,11 +13,11 @@
 
 ### 👨‍💻 About Me
 
+- 🤖 I build **AI/ML** systems that actually ship — **NLP** (context-aware sarcasm detection, geo-sentiment analysis) and **Computer Vision** (real-time driver-drowsiness detection with YOLOv11n).
+- 🌐 Backed by a real **fullstack** foundation — Laravel, PHP, JavaScript & MySQL, plus a 6-month industry internship at [PT. Solusi247](https://solusi247.com/) — so I ship products, not just notebooks.
 - 🎓 Final-year **Computer Science** student at Telkom University Purwokerto — **GPA 3.99/4.00**, Outstanding Student 2026, fully-funded scholarship awardee.
-- 🌐 **Fullstack web developer** — built database-backed apps end to end with Laravel, PHP, JavaScript & MySQL, including a 6-month industry internship at [PT. Solusi247](https://solusi247.com/).
-- 🤖 Building in **AI/ML** through real projects — **NLP** (cognitive-computing platform) and **Computer Vision** (Generative VLM–integrated systems).
-- 🗣️ Bonus: TOEIC 900 & national debate champion — I can ship it *and* explain it.
-- 🔗 More work & case studies on my **[portfolio](https://jordanaw.vercel.app/)**. Open to internships and entry-level roles in web development and AI/ML.
+- 🗣️ Ships the code, *and* can lead the team that ships it — **TOEIC 900**, national debate champion, junior project manager.
+- 🔗 Full case studies on my **[portfolio](https://jordanaw.vercel.app/)**. Open to internships & entry-level roles in AI/ML and web development.
 
 ---
 
@@ -38,13 +39,23 @@
 
 ### 🚀 Featured Projects
 
+**🤖 AI / Machine Learning**
+
 | Project | What it is | Tech |
 |--------|-----------|------|
-| **[LogiCheck](https://github.com/RedRNS/LogiCheck)** | AI-driven cognitive-training platform designed to preserve critical thinking in the age of generative AI. 🥇 International Gold Medal, ISIF 2025. | `Python` · `NLP` · `Cognitive Computing` |
-| **[UEMKASolve](https://github.com/JordanCodeGit/UEMKASolve)** | Digital financial ledger for Indonesian MSMEs with a Generative VLM API — drove a 12.8% efficiency gain across 15 clients. | `Laravel` · `PHP` · `Generative VLM` |
-| **[CFlix](https://github.com/JordanCodeGit/CFlix)** | Console-based streaming application with secure JWT user/admin auth and full CRUD over a movie catalog. | `Backend` · `Auth` · `CRUD` |
+| **[YOLOv11n Drowsiness Detection](https://github.com/JordanCodeGit/YOLOv11n-DrowsinessDetection)** | Real-time driver-fatigue monitoring optimized for diverse lighting conditions — a tuned YOLOv11n architecture. | `Python` · `YOLOv11n` · `Computer Vision` |
+| **[Context Sarcasm Detector](https://github.com/JordanCodeGit/ContextSarcasmDetector)** | Context-aware sarcasm detection that goes *beyond* binary classification — handling hyperbole & rhetorical questions. 🏅 Top final-project score. | `Python` · `NLP` · `Transformers` |
+| **[Geo-Sentiment Café Analysis](https://github.com/JordanCodeGit/Geo-SentimentCafeAnalysis)** | Geo-sentiment analysis of Purwokerto café reviews — a spatial comparison of education vs. tourism districts. | `Python` · `NLP` · `Geospatial` |
+| **[LogiCheck](https://github.com/RedRNS/LogiCheck)** | AI-driven cognitive-training platform built to preserve critical thinking in the GenAI era. 🥇 International Gold Medal, ISIF 2025. | `Python` · `NLP` · `Cognitive Computing` |
 
-> 🔎 See these live with write-ups on my **[portfolio →](https://jordanaw.vercel.app/)**
+**🌐 Web & Product**
+
+| Project | What it is | Tech |
+|--------|-----------|------|
+| **[UEMKASolve](https://github.com/JordanCodeGit/UEMKASolve)** | Digital financial ledger for Indonesian MSMEs with a Generative VLM API — drove a 12.8% efficiency gain across 15 clients. | `Laravel` · `PHP` · `Generative VLM` |
+| **[CFlix](https://github.com/JordanCodeGit/CFlix)** | Console-based streaming application with secure JWT user/admin auth and full CRUD over a movie catalog. | `PHP` · `Auth` · `CRUD` |
+
+> 🔎 See these live with full write-ups on my **[portfolio →](https://jordanaw.vercel.app/)**
 
 ---
 
@@ -60,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordanCodeGit&show_icons=true&theme=tokyonight&hide_border=true" alt="Jordan's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCodeGit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=JordanCodeGit&show_icons=true&theme=tokyonight&hide_border=true" alt="Jordan's GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JordanCodeGit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
 ---
