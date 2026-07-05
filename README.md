@@ -51,7 +51,7 @@
 
 | Project | What it is | Tech |
 |--------|-----------|------|
-| **[LogiCheck](https://github.com/RedRNS/LogiCheck)** | Web app + browser extension that coaches logical reasoning — spotting fallacies & biases via the Gemini API. 🥇 International Gold Medal, ISIF 2025. | `React` · `Node.js` · `Gemini API` |
+| **[LogiCheck](https://github.com/JordanCodeGit/LogiCheck)** | Web app + browser extension that coaches logical reasoning — spotting fallacies & biases via the Gemini API. 🥇 International Gold Medal, ISIF 2025. | `React` · `Node.js` · `Gemini API` |
 | **[UEMKASolve](https://github.com/JordanCodeGit/UEMKASolve)** | Digital financial ledger for Indonesian MSMEs with a Generative VLM API — drove a 12.8% efficiency gain across 15 clients. | `Laravel` · `PHP` · `Generative VLM` |
 
 > 🔎 See these live with full write-ups on my **[portfolio →](https://jordanaw.vercel.app/)**
